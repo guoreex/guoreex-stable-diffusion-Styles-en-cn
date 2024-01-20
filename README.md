@@ -14,7 +14,7 @@ Usage: Download the styles.csv file to the root directory of auto1111 sd webui.
 
 使用方法：将styles.csv文件下载放置到auto1111 sd webui的根目录。
 
-[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 <img width="1103" alt="image" src="https://github.com/guoreex/guoreex-stable-diffusion-Styles-en-cn/assets/125869801/27321906-4e74-40d4-8834-547eef588d9b">
 
