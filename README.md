@@ -7,6 +7,7 @@ These Styles come from:
 这些Styles来自：
 
 https://github.com/Douleb/SDXL-A1111-Styles
+
 https://www.reddit.com/r/StableDiffusion/comments/11mkefu/comment/jzynjq7/?utm_source=share&utm_medium=web2x&context=3
 
 Usage: Download the styles.csv file to the root directory of auto1111 sd webui.
