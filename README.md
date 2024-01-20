@@ -18,4 +18,4 @@ Usage: Download the styles.csv file to the root directory of auto1111 sd webui.
 <img width="1103" alt="image" src="https://github.com/guoreex/guoreex-stable-diffusion-Styles-en-cn/assets/125869801/27321906-4e74-40d4-8834-547eef588d9b">
 
 
-![Uploading image.png…]()
+![image](https://github.com/guoreex/guoreex-stable-diffusion-Styles-en-cn/assets/125869801/7de32f27-0048-4acd-b87a-528028fe9b47)
